@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATMWebApp/ATM.MVC/ATMl.MVC.csproj",
-      "projectName": "ATMl.MVC",
-      "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATMWebApp/ATM.MVC/ATMl.MVC.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATMWebApp/ATM.MVC/ATM.MVC.csproj",
+      "projectName": "ATM.MVC",
+      "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATMWebApp/ATM.MVC/ATM.MVC.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
       "outputPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATMWebApp/ATM.MVC/obj/",
       "projectStyle": "PackageReference",
