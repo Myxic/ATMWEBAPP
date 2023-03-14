@@ -10,11 +10,44 @@ namespace ATM.MVC.Controllers
 {
     public class ATMPagesController : Controller
     {
-        // GET: /<controller>/
+        //    private readonly ILogger<ATMPagesController> _logger;
+
+        //    public ATMPagesController(ILogger<ATMPagesController> logger)
+        //    {
+        //        _logger = logger;
+        //    }
+
         public IActionResult Index()
         {
             return View();
         }
+
+        public IActionResult Deposit()
+        {
+            return View();
+        }
+
+        public IActionResult View_History()
+        {
+            return View();
+        }
+
+        public IActionResult TransferForm()
+        {
+            return View();
+        }
+
+        public IActionResult ViewBalance()
+        {
+            return View();
+        }
+
+        public IActionResult WithdrawalForm()
+        {
+            return View();
+        }
+        // GET: /<controller>/
+
     }
 }
 

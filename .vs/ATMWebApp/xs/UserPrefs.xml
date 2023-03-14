@@ -1,8 +1,14 @@
 ﻿<Properties StartupConfiguration="{CA6DA8A2-C915-4AA5-8D7C-D4F9D766295F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ATM.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ATMWEB.MVC/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM.MVC/Program.cs">
     <Files>
-      <File FileName="../../../../.microsoft/usersecrets/6965e0b5-6144-4467-9509-56e9e460b6c6/secrets.json" />
+      <File FileName="../../../../.microsoft/usersecrets/6965e0b5-6144-4467-9509-56e9e460b6c6/secrets.json" Line="1" Column="1" />
       <File FileName="ATM.DAL/Data/EfCoreAtmContext.cs" />
       <File FileName="ATM.DAL/Implementation /AdminCurdOperation.cs" />
       <File FileName="ATM.DAL/Implementation /CustomerCurdOperation.cs" />
@@ -16,42 +22,32 @@
       <File FileName="ATM.DAL/Model/Admin.cs" />
       <File FileName="ATM.DAL/Model/Workflow.cs" />
       <File FileName="ATM.BLL/Implementation /CustomerOperation.cs" />
-      <File FileName="ATMWEB.MVC/wwwroot/css/site.css" />
-      <File FileName="ATMWEB.MVC/Controllers/ATMPagesController.cs" />
-      <File FileName="ATMWEB.MVC/Controllers/HomeController.cs" />
-      <File FileName="ATMWEB.MVC/appsettings.json" />
-      <File FileName="ATMWEB.MVC/Views/Home/Index.cshtml" />
-      <File FileName="ATMWEB.MVC/Views/ATMPages/Index.cshtml" />
-      <File FileName="ATMWEB.MVC/Views/Shared/_Layout.cshtml" />
-      <File FileName="ATMWEB.MVC/Program.cs" Line="39" Column="1" />
-      <File FileName="ATMWEB.MVC/wwwroot/js/site.js" />
-      <File FileName="ATMWEB.MVC/Views/Shared/_Layout.cshtml.css" />
-      <File FileName="ATMWEB.MVC/Views/Shared/_ValidationScriptsPartial.cshtml" />
-      <File FileName="ATMWEB.MVC/Views/Home/Privacy.cshtml" />
-      <File FileName="ATMWEB.MVC/Views/Shared/Error.cshtml" />
-      <File FileName="ATMWEB.MVC/Views/_ViewImports.cshtml" />
-      <File FileName="ATMWEB.MVC/ATMWEB.MVC.csproj" />
+      <File FileName="ATM.MVC/Program.cs" Line="39" Column="68" />
+      <File FileName="ATM.MVC/Controllers/HomeController.cs" Line="25" Column="1" />
+      <File FileName="ATM.MVC/Views/ATMPages/Index.cshtml" Line="5" Column="41" />
+      <File FileName="ATM.MVC/Views/ATMPages/Deposit.cshtml" Line="4" Column="1" />
+      <File FileName="ATM.MVC/Views/Shared/_Layout.cshtml" Line="211" Column="1" />
+      <File FileName="ATM.MVC/Controllers/ATMPagesController.cs" Line="12" Column="6" />
+      <File FileName="ATM.MVC/Views/ATMPages/ViewBalance.cshtml" Line="1" Column="1" />
+      <File FileName="ATM.MVC/Controllers/AdminPagesController.cs" Line="1" Column="1" />
+      <File FileName="ATM.MVC/ATM.MVC.csproj" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ATMWebApp" expanded="True">
-            <Node name="ATMWEB.MVC" expanded="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="ATM.MVC" expanded="True">
               <Node name="Views" expanded="True">
+                <Node name="AdminPages" expanded="True" />
                 <Node name="ATMPages" expanded="True" />
-                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="ATMl.MVC" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ATM.MVC PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
