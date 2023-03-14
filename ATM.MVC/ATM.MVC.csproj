@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\img\" />
+    <Content Remove="wwwroot\lib\bootstrap\vendor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="Views\ATMPages\" />
+    <Folder Include="wwwroot\lib\bootstrap\vendor\" />
+    <Folder Include="Views\AdminPages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\ATMPages\" />
+    <None Remove="Views\AdminPages\" />
+  </ItemGroup>
+</Project>

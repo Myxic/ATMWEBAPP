@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{CA6DA8A2-C915-4AA5-8D7C-D4F9D766295F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATMWEB.MVC/Program.cs">
+    <Files>
+      <File FileName="../../../../.microsoft/usersecrets/6965e0b5-6144-4467-9509-56e9e460b6c6/secrets.json" />
+      <File FileName="ATM.DAL/Data/EfCoreAtmContext.cs" />
+      <File FileName="ATM.DAL/Implementation /AdminCurdOperation.cs" />
+      <File FileName="ATM.DAL/Implementation /CustomerCurdOperation.cs" />
+      <File FileName="ATM.DAL/Model/Customer.cs" />
+      <File FileName="ATM.DAL/Model/TransationRecords.cs" />
+      <File FileName="ATM.DAL/Model/Complains.cs" />
+      <File FileName="ATM.DAL/Interface /ICustomerCurdOperation.cs" />
+      <File FileName="ATM.BLL/Implementation /AdminOperation.cs" />
+      <File FileName="ATM.BLL/Interface/ICustomerOperation.cs" />
+      <File FileName="ATM.BLL/Interface/IAdminOperations.cs" />
+      <File FileName="ATM.DAL/Model/Admin.cs" />
+      <File FileName="ATM.DAL/Model/Workflow.cs" />
+      <File FileName="ATM.BLL/Implementation /CustomerOperation.cs" />
+      <File FileName="ATMWEB.MVC/wwwroot/css/site.css" />
+      <File FileName="ATMWEB.MVC/Controllers/ATMPagesController.cs" />
+      <File FileName="ATMWEB.MVC/Controllers/HomeController.cs" />
+      <File FileName="ATMWEB.MVC/appsettings.json" />
+      <File FileName="ATMWEB.MVC/Views/Home/Index.cshtml" />
+      <File FileName="ATMWEB.MVC/Views/ATMPages/Index.cshtml" />
+      <File FileName="ATMWEB.MVC/Views/Shared/_Layout.cshtml" />
+      <File FileName="ATMWEB.MVC/Program.cs" Line="39" Column="1" />
+      <File FileName="ATMWEB.MVC/wwwroot/js/site.js" />
+      <File FileName="ATMWEB.MVC/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="ATMWEB.MVC/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="ATMWEB.MVC/Views/Home/Privacy.cshtml" />
+      <File FileName="ATMWEB.MVC/Views/Shared/Error.cshtml" />
+      <File FileName="ATMWEB.MVC/Views/_ViewImports.cshtml" />
+      <File FileName="ATMWEB.MVC/ATMWEB.MVC.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATMWebApp" expanded="True">
+            <Node name="ATMWEB.MVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ATMPages" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+            <Node name="ATMl.MVC" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ATM.MVC PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
